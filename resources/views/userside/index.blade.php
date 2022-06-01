@@ -33,7 +33,7 @@
 
       <div class="div-background-index">
         <div class="div-">
-
+          <button class="btn-about-index">About Me</button>
         </div>
       </div>
     </body>

@@ -1,0 +1,9 @@
+.div-whole-profile{
+
+}
+.div-background-index{
+  background-image: url("img/bg.jpg");
+  width: 100%;
+  margin:auto;
+  max-width: 1900px;
+}
