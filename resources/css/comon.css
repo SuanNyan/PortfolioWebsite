@@ -1,6 +1,12 @@
-.clearfix{
-  
+.clearfix:after {
+    display: block;
+    clear: both;
+    height: 0px;
+    visibility: hidden;
+    font-size: 0px;
+    content: "";
 }
+
 .ul-alltabs{
   font-family: 'Courier New', Courier, monospace;
   list-style-type: none;

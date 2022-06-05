@@ -7,16 +7,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Suan Thiha Nyan/ My Portfolio website</title>
 
-        <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
-        <link href="{{ asset('css/style.css') }}" rel="stylesheet">
         <link href="{{ asset('css/common.css') }}" rel="stylesheet">
         <link href="{{ asset('css/reset.css') }}" rel="stylesheet">
-        <!-- Styles -->
-
+        <link href="{{ asset('css/style.css') }}" rel="stylesheet">
+        <link href="{{ asset('font/fontawesome-free-6.0.0-beta3-web/css/all.min.css') }}" rel="stylesheet">
 
     </head>
-    <body class="antialiased">
+    <body>
       <div class="div-banner-website">
         <div class="div-li-banner">
           <ul class="ul-alltabs">
